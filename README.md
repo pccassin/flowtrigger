@@ -4,7 +4,7 @@ Landing page for Flow Trigger Chrome Extension - One-click workflow automation.
 
 ## Live Site
 
-Visit: https://pccassin.github.io/flow-trigger/
+Visit: https://pccassin.github.io/flowtrigger/
 
 ## Setup Instructions
 
@@ -13,7 +13,7 @@ This site has been automatically generated and is ready to deploy to GitHub Page
 ### Deploy to GitHub
 
 ```bash
-git remote add origin https://github.com/pccassin/flow-trigger.git
+git remote add origin https://github.com/pccassin/flowtrigger.git
 git add .
 git commit -m "Initial commit"
 git push -u origin main
@@ -28,4 +28,4 @@ git push -u origin main
 5. Folder: / (root)
 6. Save
 
-Your site will be available at: https://pccassin.github.io/flow-trigger/
+Your site will be available at: https://pccassin.github.io/flowtrigger/
